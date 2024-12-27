@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yemeth\\source\\repos\\OPort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|c:\\users\\yemeth\\source\\repos\\oport\\oport\\controllers\\specialitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|solutionrelative:oport\\controllers\\specialitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|c:\\users\\yemeth\\source\\repos\\oport\\oport\\controllers\\resumescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|solutionrelative:oport\\controllers\\resumescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|c:\\users\\yemeth\\source\\repos\\oport\\oport\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|solutionrelative:oport\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|c:\\users\\yemeth\\source\\repos\\oport\\oport\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|solutionrelative:oport\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|c:\\users\\yemeth\\source\\repos\\oport\\oport\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|solutionrelative:oport\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|c:\\users\\yemeth\\source\\repos\\oport\\oport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|solutionrelative:oport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|c:\\users\\yemeth\\source\\repos\\oport\\oport\\services\\projects\\projectsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|solutionrelative:oport\\services\\projects\\projectsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|c:\\users\\yemeth\\source\\repos\\oport\\oport\\services\\projects\\dtos\\projectcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|solutionrelative:oport\\services\\projects\\dtos\\projectcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBF8858-7D8F-498D-BBB7-124F2F80CE3F}|Core\\Core.csproj|c:\\users\\yemeth\\source\\repos\\oport\\core\\entities\\projects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBF8858-7D8F-498D-BBB7-124F2F80CE3F}|Core\\Core.csproj|solutionrelative:core\\entities\\projects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBF8858-7D8F-498D-BBB7-124F2F80CE3F}|Core\\Core.csproj|c:\\users\\yemeth\\source\\repos\\oport\\core\\entities\\resumes\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBF8858-7D8F-498D-BBB7-124F2F80CE3F}|Core\\Core.csproj|solutionrelative:core\\entities\\resumes\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|c:\\users\\yemeth\\source\\repos\\oport\\oport\\services\\projects\\mappings\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7323E33-4B6F-48BC-A666-BDC2B831D5E3}|OPort\\API.csproj|solutionrelative:oport\\services\\projects\\mappings\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpecialitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Controllers\\SpecialitiesController.cs",
+              "RelativeDocumentMoniker": "OPort\\Controllers\\SpecialitiesController.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Controllers\\SpecialitiesController.cs",
+              "RelativeToolTip": "OPort\\Controllers\\SpecialitiesController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:11:24.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResumesController.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Controllers\\ResumesController.cs",
+              "RelativeDocumentMoniker": "OPort\\Controllers\\ResumesController.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Controllers\\ResumesController.cs",
+              "RelativeToolTip": "OPort\\Controllers\\ResumesController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:11:20.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "OPort\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "OPort\\Controllers\\FilesController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:11:12.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OPort\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OPort\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAkwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:11:07.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\source\\repos\\OPort\\Core\\Entities\\Resumes\\Resume.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Resumes\\Resume.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\source\\repos\\OPort\\Core\\Entities\\Resumes\\Resume.cs",
+              "RelativeToolTip": "Core\\Entities\\Resumes\\Resume.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:14:23.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\source\\repos\\OPort\\Core\\Entities\\Projects\\Project.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Projects\\Project.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\source\\repos\\OPort\\Core\\Entities\\Projects\\Project.cs",
+              "RelativeToolTip": "Core\\Entities\\Projects\\Project.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:14:05.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Services\\Projects\\Mappings\\ProjectProfile.cs",
+              "RelativeDocumentMoniker": "OPort\\Services\\Projects\\Mappings\\ProjectProfile.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Services\\Projects\\Mappings\\ProjectProfile.cs",
+              "RelativeToolTip": "OPort\\Services\\Projects\\Mappings\\ProjectProfile.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:06:38.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectsService.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Services\\Projects\\ProjectsService.cs",
+              "RelativeDocumentMoniker": "OPort\\Services\\Projects\\ProjectsService.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Services\\Projects\\ProjectsService.cs",
+              "RelativeToolTip": "OPort\\Services\\Projects\\ProjectsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:03:03.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Services\\Projects\\DTOs\\ProjectCreateDto.cs",
+              "RelativeDocumentMoniker": "OPort\\Services\\Projects\\DTOs\\ProjectCreateDto.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Services\\Projects\\DTOs\\ProjectCreateDto.cs",
+              "RelativeToolTip": "OPort\\Services\\Projects\\DTOs\\ProjectCreateDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:21:43.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Program.cs",
+              "RelativeDocumentMoniker": "OPort\\Program.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Program.cs",
+              "RelativeToolTip": "OPort\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAswEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:45:47.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "OPort\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\source\\repos\\OPort\\OPort\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "OPort\\Controllers\\ProjectsController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:20:11.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
