@@ -137,3 +137,38 @@ Ensure you have met the following requirements:
      ```bash
      dotnet ef database update
      ```  
+5. **Run the Application**  
+
+   - Start the application with:  
+     ```bash
+     dotnet run
+     ```  
+   - The application will start on the configured port (typically `https://localhost:5001` or `http://localhost:5000` for development).
+
+6. **Open Swagger UI**  
+
+   - Navigate to `https://localhost:5001/swagger` (or the corresponding port).
+
+---
+
+## Usage Instructions
+
+### Authentication Flow  
+
+- **SignUp**: Use the `POST /api/Auth/signup` endpoint to create a user, providing `firstName`, `lastName`, `password`, and `email`.  
+- **SignIn**: Use the `POST /api/Auth/signin` endpoint to log in with the created user credentials.
+
+### Role Management  
+
+- **AddRole**: Use `POST /api/Auth/add-role` to create a new role.  
+- **UpdateUserRole**: Use `PUT /api/Auth/update-role` to assign a role to a user.
+
+### File Upload  
+
+- **FilesController**: Use `POST /api/Files/upload/{projectId}` to upload a file for a given project ID. Include a form-data request with the key `file` pointing to the file to be uploaded.
+
+### Common Endpoints  
+
+- **Projects**: CRUD operations at `/api/Projects`.  
+- **Resumes**: CRUD operations at `/api/Resumes`.  
+- **Specialities**: CRUD operations at `/api/Specialities`.  
